@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '42227'
     url: http://www.gutenberg.org/2009/agents/42227
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43465#The-Kangaroo-HuntersOr-Adventures-in-the-Bush
 gutenberg_issued: '2013-08-14'
 gutenberg_type: Text
 identifiers:
